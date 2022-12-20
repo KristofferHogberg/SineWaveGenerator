@@ -1,0 +1,11 @@
+C:\Users\tWax\RiderProjects\BasicSynthDemo\BasicSynthDemo\bin\Debug\BasicSynthDemo.exe.config
+C:\Users\tWax\RiderProjects\BasicSynthDemo\BasicSynthDemo\bin\Debug\BasicSynthDemo.exe
+C:\Users\tWax\RiderProjects\BasicSynthDemo\BasicSynthDemo\bin\Debug\BasicSynthDemo.pdb
+C:\Users\tWax\RiderProjects\BasicSynthDemo\BasicSynthDemo\obj\Debug\BasicSynthDemo.csproj.AssemblyReference.cache
+C:\Users\tWax\RiderProjects\BasicSynthDemo\BasicSynthDemo\obj\Debug\BasicSynthDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\tWax\RiderProjects\BasicSynthDemo\BasicSynthDemo\obj\Debug\BasicSynthDemo.Properties.Resources.resources
+C:\Users\tWax\RiderProjects\BasicSynthDemo\BasicSynthDemo\obj\Debug\BasicSynthDemo.csproj.GenerateResource.cache
+C:\Users\tWax\RiderProjects\BasicSynthDemo\BasicSynthDemo\obj\Debug\BasicSynthDemo.csproj.CoreCompileInputs.cache
+C:\Users\tWax\RiderProjects\BasicSynthDemo\BasicSynthDemo\obj\Debug\BasicSynthDemo.exe
+C:\Users\tWax\RiderProjects\BasicSynthDemo\BasicSynthDemo\obj\Debug\BasicSynthDemo.pdb
+C:\Users\tWax\RiderProjects\BasicSynthDemo\BasicSynthDemo\obj\Debug\BasicSynthDemo.BasicSynth.resources
